@@ -1,4 +1,4 @@
-# Case_Study_on_Hotel_Bokking
+# Case_Study_on_Hotel_Booking
 🧹 **Unlocking Revenue Potential: Hotel Booking Cancellations Analysis 📊**
 
 In the dynamic hospitality industry, City Hotel and Resort Hotel face a common challenge: soaring cancellation rates. As revenue generators, these cancellations impact efficiency and room utilization. Today, I present a comprehensive analysis aimed at understanding the variables affecting hotel reservation cancellations and proposing strategic solutions.
